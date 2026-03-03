@@ -1,16 +1,26 @@
 # CSV-Sample-Tracking-System-Validation
-Mock CSV validation project demonstrating URS, Risk Assessment, IQ/OQ/PQ, Traceability Matrix, and Validation Summary aligned with GAMP 5.
+Mock Computer System Validation (CSV) project demonstrating URS, Risk Assessment, IQ/OQ/PQ, Traceability Matrix, and Validation Summary aligned with GAMP 5.
+
 CSV-Sample-Tracking-System-Validation
-│
+
 ├── 01 Validation Plan
+
 ├── 02 URS
+
 ├── 03 Risk Assessment
+
 ├── 04 Traceability Matrix
+
 ├── 05 IQ
+
 ├── 06 OQ
+
 ├── 07 PQ
+
 ├── 08 Summary Report
+
 ├── Screenshots
+
 └── README.md
 
 📌 Project Overview
