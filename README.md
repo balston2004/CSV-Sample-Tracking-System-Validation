@@ -19,8 +19,6 @@ CSV-Sample-Tracking-System-Validation
 
 ├── 08 Summary Report
 
-├── Screenshots
-
 └── README.md
 
 📌 Project Overview
