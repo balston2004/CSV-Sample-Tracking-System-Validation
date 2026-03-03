@@ -1,5 +1,5 @@
 # CSV-Sample-Tracking-System-Validation
-This Validation (CSV) project demonstrating URS, Risk Assessment, IQ/OQ/PQ, Traceability Matrix, and Validation Summary aligned with GAMP 5.
+This repository demostrates a mock Validation (CSV) project demonstrating URS, Risk Assessment, IQ/OQ/PQ, Traceability Matrix, and Validation Summary aligned with GAMP 5.
 
 CSV-Sample-Tracking-System-Validation
 
@@ -31,15 +31,39 @@ Assign analysts
 Record results
 Maintain audit trails
 
-📌 Validation Deliverables
-Validation Plan
-URS
-Risk Assessment
-Traceability Matrix
-IQ/OQ/PQ Protocols
-Validation Summary Report
+📌 Validation Lifecycle Deliverables
+
+1. Planning Phase
+
+   Validation Plan
+
+   URS
+
+2. Risk Management
+
+   Risk Assessment
+
+   Traceability Matrix
+
+3. Qualification
+
+   Installation Qualification (IQ)
+
+   Operational Qualification (OQ)
+
+   Performance Qualification (PQ)
+
+
+4. Validation Completion
+
+   Validation Summary Report
 
 📌 Compliance Focus
+
 21 CFR Part 11
+
 ALCOA+ Data Integrity
+
 GAMP 5 Risk-Based Validation
+
+GxP Quality Guidelines
